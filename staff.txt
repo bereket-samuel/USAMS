@@ -1,0 +1,8 @@
+1,Dr. Alemu,Computer Science
+2,Prof. Zenebe,Information Systems
+3,Mr. Kebede,Software Engineering
+4,Ms. Tigist,Network Administration173261,bereket sanuel,admin,core,cs
+173261,mesay,admin,sub,lecturer
+173261,weynu,lecture,core,cs
+17321,gfgd,lecture,core,cs
+173261,admin,admin,core,cs
